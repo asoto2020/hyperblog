@@ -2,4 +2,4 @@ Esta es una prueba de Git
 
 Cualquier cambo se vera reflejado en git
 
-Nos falto agregar el contenido de este archivo
+El contenido de este archivo es sobre mi vida
