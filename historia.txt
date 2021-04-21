@@ -2,4 +2,4 @@ Esta es una prueba de Git
 
 Cualquier cambo se vera reflejado en git
 
-El contenido de este archivo es sobre mi maestria
+Se reemplaza por otra historia totalmente distinta
